@@ -1,8 +1,10 @@
 # teste-yaman-api
 
-#Trata- se de uma consulta enviada a  API retornando dados e validando informações.
+#Descrição: 
 
-# passos para execução:
+ Trata- se de uma consulta enviada a  API retornando dados e validando informações.
+
+# Passos para execução:
 
 1: passo rodar comando bundler install
 
